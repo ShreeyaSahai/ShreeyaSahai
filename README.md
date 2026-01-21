@@ -1,5 +1,4 @@
-# Hi, I'm Shreeya Sahai 👋
-
+Hi, I'm Shreeya Sahai 👋
 Computer Science Undergraduate  
 I'm always looking forward to learning new things and I am excited for opportunities to work, learn and grow. 
 

@@ -1,6 +1,6 @@
 <h1 align="center">Shreeya Sahai</h1>
 
-<p align="center"> Backend-focused Software Engineering Intern experienced in developing enterprise applications with Java, Spring Boot, Hibernate, and PostgreSQL. Currently expanding expertise in cloud technologies, distributed systems, and scalable software architecture. </p>
+<p align="center"> Computer Science student with experience developing enterprise backend applications using Java, Spring Boot, Hibernate, and PostgreSQL. Currently expanding expertise in cloud technologies, distributed systems, and scalable software architecture. </p>
 
 ## Tech Stack
 
